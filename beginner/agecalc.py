@@ -15,7 +15,7 @@ def calculation(name,age):
     print("Hi {}, you'll be 100 in {}.".format(name,year100))
     if age > 50 and age < 65:
         print("Wow! Half way there!")
-    if age > 65:
+    if age >= 65:
         print("Wow, you're experienced!")
 
 def survey():
