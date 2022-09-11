@@ -1,7 +1,4 @@
 # User      Discord: Bwomp-Womp#2368
-#           Git:     GraphicDesignDropout
-#           Twitter: @iamtsofu
-
 # Title:    WOP_BeginnerChallenges_02_RockPaperScissors
 
 from random import randint
